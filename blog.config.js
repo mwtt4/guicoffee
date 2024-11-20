@@ -1,5 +1,5 @@
 const CONFIG = {
-  title: "Lotse",
+  title: "gui.coffee",
   baseURL: "https://lotse.vercel.app",
   darkBackground: "#1a1a1a",
   resume: "/resume.pdf", // upload your resume in the /public folder
